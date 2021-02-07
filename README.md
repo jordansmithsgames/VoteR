@@ -7,7 +7,7 @@
 
 (Psst, check out the [Devpost](https://devpost.com/software/voter-7xrsoi)!)
 
-# Inspiration
+## Inspiration
 
 Everyone knows that voting is one of the most important things we can do to make a difference in our country. Despite this, many Americans face difficulties at the polls every year due to unclear voting regulations and communication gaps between election officials and the general public.
 
@@ -20,7 +20,7 @@ As college students who experienced these issues ourselves as relatively new vot
 
 We decided to apply our knowledge of virtual reality development to help voters overcome these issues on an accessible and innovative platform. Thus VoteR was born.
 
-# What it does
+## What it does
 
 VoteR is a virtual reality mobile application developed for Google Cardboard that educates users about the voting process. More specifically, it:
 - Teaches users how to vote, by taking them through the process in virtual reality
@@ -36,7 +36,7 @@ The Home page of the UI also includes the number of days until the next Election
 
 We utilized Google Cardboard to ensure our application was accessible to everyone! This is a low-cost VR solution that brings this powerful technology into everyone's hands.
 
-# How we built it
+## How we built it
 
 Our team broke the development process into two cones, which were then assembled at the end. This project was completed as follows:
 
@@ -44,7 +44,7 @@ Modeling Team (Aadithya and Austin): Used Maya to create the characters in this 
 
 Coding Team (Ines and Jordan): Used Unity to create an authentication system and user interface for the mobile application. Utilized Google Firebase to produce the authentication system. Produced the application functionality linking our VR scene and the mobile app with Google Cardboard and implementing the switch between VR mode and not VR mode.
 
-# Challenges we ran into
+## Challenges we ran into
 
 As with any worthwhile project, there were many challenges along the way.
 
@@ -52,12 +52,12 @@ Modeling Team: The greatest challenges we faced were creating all of the assets 
 
 Coding Team: The greatest challenges we faced were working with Firebase and Google Cardboard in Unity along with switching back and fourth between VR mode and not VR mode. The nature of working with authentication is that it is very time consuming, so being able to get a working authentication pipeline in our application proved to be very difficult indeed due to the time constraints of this hackathon. Creating the user interface was also challenging because both members of the coding team do not have experience in UI.
 
-# Accomplishments that we're proud of
+## Accomplishments that we're proud of
 
 We're very proud that we were able to construct a fairly detailed experience in terms of a UI interface and a 3D environment in a very small amount of time. We are very proud that everything was made FROM SCRATCH (No imported assets or textures)! We are also proud that we made a fully working VR experience that encourages people to vote and teaches them how to do so, especially since the next election is coming up in just a couple weeks.
 
 What we learned We learned the ins and outs of importing and integrating 3D models from Maya into Unity, as well as the process of combining the textures made in Substance Painters onto these models as well. We learned about Firebase's authentication and database technologies, and we also learned about creating and maintaining user sessions in a mobile application through UI elements.
 
-# What's next for VoteR
+## What's next for VoteR
 
 With the election less than a month away for those of us here in the United States, we think it is important that we finish the VoteR app in order to share it with our friends and family to encourage them to make their voice heard in this critical election. Ideally, we would add social media features that allows users to share their experiences and their earned badges with their followers in order to increase suffrage awareness. We would also want to add another scene that shows how to vote using mailing button. We would also want to polish up the animations and add more assets to the scenes in the application.
